@@ -1,0 +1,1 @@
+Exemplo de contrutores, trabalho com classes conjuntas, array de objetos, testes de referencias, igualdade. 
